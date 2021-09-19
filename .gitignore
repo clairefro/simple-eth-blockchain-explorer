@@ -1,0 +1,5 @@
+node_modules
+.env
+
+# aprivate ccount details generated on `ethers-build init`
+account.json

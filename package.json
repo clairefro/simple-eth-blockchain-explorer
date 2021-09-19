@@ -1,0 +1,7 @@
+{
+  "name": "simple-eth-blockchain-explorer",
+  "version": "1.0.0",
+  "author": "clairefro",
+  "main": "index.js",
+  "license": "MIT"
+}
